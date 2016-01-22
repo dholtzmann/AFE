@@ -1,6 +1,9 @@
 ## Introduction ##
 
-I am tired of being pestered about why I encourage friends and family to avoid Facebook and most *social media*. I ought to tidy this up a bit.
+I am tired of being pestered about why I encourage friends and family to avoid Facebook and most *social media*. 
+
+### Todo ###
+This list could be better organized.
 
 ### Privacy ###
 
