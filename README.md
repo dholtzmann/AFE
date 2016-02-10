@@ -7,6 +7,12 @@ This list could be better organized.
 
 ### Privacy ###
 
+[Lawsuit for scanning users' messages](http://www.latimes.com/business/technology/la-fi-tn-facebook-messages-lawsuit-20141224-story.html)
+
+[FB spies on 70 million users aged 21-34 for financial institutions](https://fbinsights.files.wordpress.com/2016/01/facebookiq_millennials_money_january2016.pdf)
+
+[FB censors dissenting Europeans, politics](http://www.reuters.com/article/us-europe-migrants-germany-facebook-idUSKCN0UW25C)
+
 [Friends list determines creditworthiness](http://consumerist.com/2015/08/05/facebook-patent-would-allow-lenders-to-determine-creditworthiness-by-looking-at-your-friends/)
 
 [Facebook profile affects credit](http://www.ajc.com/news/news/national/how-your-facebook-profile-can-affect-your-credit/npD9X/)
