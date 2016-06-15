@@ -7,6 +7,14 @@ This list could be better organized.
 
 ### Privacy ###
 
+[Microsoft purchase of LinkedIn, data mining](http://www.theregister.co.uk/2016/06/14/welcome_to_the_microsoftlinkedin_apocalypse/)
+
+[FB hands over data to feds 81% of the time](http://www.hardocp.com/news/2016/04/28/facebook_handed_over_your_data_to_feds_81_time)
+
+[Arrests for social media posts surge in London](http://www.vocativ.com/325190/arrests-for-social-media-posts-surge-in-london/)
+
+[Facial recognition will end anonymity](http://www.marketwatch.com/story/facial-recognition-will-soon-end-your-anonymity-2016-06-02)
+
 [Lawsuit for scanning users' messages](http://www.latimes.com/business/technology/la-fi-tn-facebook-messages-lawsuit-20141224-story.html)
 
 [FB spies on 70 million users aged 21-34 for financial institutions](https://fbinsights.files.wordpress.com/2016/01/facebookiq_millennials_money_january2016.pdf)
@@ -37,5 +45,8 @@ This list could be better organized.
 
 [Twitter 2009 study, out of 2000 tweets over 50% pointless babble, spam, or self-promotion](https://web.archive.org/web/20110715062407/www.pearanalytics.com/blog/wp-content/uploads/2010/05/Twitter-Study-August-2009.pdf)
 
+### Fraud & False Value to Businesses ###
+
+[Clickfarms, pay for likes, selective sharing](https://www.youtube.com/watch?v=oVfHeWTKjag)
 
 This list is no by no means exhaustive, pull requests welcome.
