@@ -5,7 +5,12 @@ I am tired of being pestered about why I encourage friends and family to avoid F
 ### Todo ###
 This list could be better organized.
 
+### Anti-competitive practices ###
+[How Facebook squashes competition](https://www.wsj.com/articles/the-new-copycats-how-facebook-squashes-competition-from-startups-1502293444)
+
 ### Privacy ###
+
+[Facebook background processes on phones](https://www.fastcompany.com/40451455/facebook-is-spying-on-your-phone-habits-to-figure-out-which-ideas-to-steal-next)
 
 [Microsoft purchase of LinkedIn, data mining](http://www.theregister.co.uk/2016/06/14/welcome_to_the_microsoftlinkedin_apocalypse/)
 
